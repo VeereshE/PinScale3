@@ -1,0 +1,84 @@
+.list-All-transaction{
+    display: inline-flex;
+    padding: 16px 30px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 25px;
+    background: #FFF;
+    margin-left: 260px;
+    margin-top: 20px;
+    width: 75%;
+    height: 75%;
+}
+
+.list-details{
+    display: flex;
+    gap: 50%;
+}
+.line{
+    width: 1050px;
+    height: 1px;
+    background: #E2E2E2;
+}
+
+.down_cost{
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+}
+
+.list-of-all-details{
+    display: flex;
+    gap: 30%;
+}
+
+.personUsername{
+    display: flex;
+    gap: 8%;
+}
+
+.Username{
+    color: #505887;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.image_usernmae{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
+
+
+.User_name{
+    color: #343C6A;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 100%;
+}
+
+.tittle_usename{
+    color: #505887;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   
+}
+
+.amount_username{
+    color: #FE5C73;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

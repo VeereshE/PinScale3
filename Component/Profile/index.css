@@ -1,0 +1,61 @@
+.background-img{
+    width: 202px;
+    height: 208px;
+    flex-shrink: 0;
+    background: url("https://res.cloudinary.com/dgvec2ipx/image/upload/v1690874596/pexels-christina-morillo-1181690_1_loco8i.jpg"), lightgray 50% / cover no-repeat;
+     border-radius: 50%;  
+     margin-top:10px;
+    
+}
+
+.form-img-container{
+    display: flex;
+    
+
+}
+
+.username_text{
+    color: #505887;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   
+}
+
+.input_user{
+    width: 300px;
+    height: 30px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #DFEAF2;
+    background: #FFF;
+}
+
+.username_email{
+    color: #505887;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 20px;
+}
+
+.form-container-User{
+    padding: 30px;
+    margin: 20px;
+    
+}
+
+.ferm-emelem{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.form-all-container{
+    display: flex;
+    gap: 40px;
+}
